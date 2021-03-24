@@ -122,20 +122,24 @@
         justify-content:center;
         align-items:center;
         display:flex;
-        background-color:gray;
         border: solid;
-
 
     }
      #container2{
         width: 80%;
     }
     #container2 #cd{
-        width: 100%;
+        width: 200%;
         display: flex;
     }
+    #a{
+        background-color: gray;
+    }
+    #b{
+        background-color: red;
+    }
     #c{
-        width: 380px;
+        width: 400px;
         height: 200px;
         text-align:center;
         justify-content:center;
@@ -147,7 +151,7 @@
     }
     #d{
 
-        width: 380px;
+        width: 400px;
         height: 200px;
         text-align:center;
         justify-content:center;
@@ -167,7 +171,7 @@
         display: flex;
     }
     #e{
-        width: 190px;
+        width: 200px;
         height: 250px;
         text-align:center;
         justify-content:center;
@@ -178,7 +182,7 @@
 
     }
     #f{
-        width: 190px;
+        width: 200px;
         height: 250px;
         text-align:center;
         justify-content:center;
@@ -189,7 +193,7 @@
 
     }
     #g{
-        width: 190px;
+        width: 200px;
         height: 250px;
         text-align:center;
         justify-content:center;
@@ -212,7 +216,7 @@
     }
 
     #i{
-        width: 760px;
+        width: 810px;
         height: 150px;
         text-align:center;
         justify-content:center;
